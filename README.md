@@ -2,7 +2,7 @@
 
 Please view the overview.pptx for more details.
 
-We propose the following COVID-Employee-tracker app for the following use cases:
+We propose the following Pandemic-Employee-tracker app for the following use cases:
 
 1.	A manager will be able to track his team members during this pandemic. The manager will be able to graphically view the number of his team members in various zones and the company can take necessary actions to provide help. (Figure 1)
 

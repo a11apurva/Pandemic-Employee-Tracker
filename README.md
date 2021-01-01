@@ -18,5 +18,16 @@ We propose the following Pandemic-Employee-tracker app for the following use cas
 ## Some screenshots - 
 
 Home Page for employees
+![ScreenShot](https://github.com/a11apurva/Pandemic-Employee-Tracker/blob/master/screenshots/ss1.png)
 
-![ScreenShot](../screenshots/ss1.png)
+Team Page for managers
+![ScreenShot](https://github.com/a11apurva/Pandemic-Employee-Tracker/blob/master/screenshots/ss2.png)
+
+Team Statistics
+![ScreenShot](https://github.com/a11apurva/Pandemic-Employee-Tracker/blob/master/screenshots/ss3.png)
+
+Organization Chart
+![ScreenShot](https://github.com/a11apurva/Pandemic-Employee-Tracker/blob/master/screenshots/ss4.png)
+
+Floor/wing real time status
+![ScreenShot](https://github.com/a11apurva/Pandemic-Employee-Tracker/blob/master/screenshots/ss5.png)

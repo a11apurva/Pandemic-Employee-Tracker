@@ -13,3 +13,10 @@ We propose the following Pandemic-Employee-tracker app for the following use cas
 4.	Many companies are also following 14-day mandatory WFH-rule even after the employees return to the work city. The managers can view the days left before an employee is ready to join the office. 
 
 5. Integrate with RFID ID Card or punching system Track real time number and percentage of employess inside the campus and in various wings.
+
+
+## Some screenshots - 
+
+Home Page for employees
+
+![ScreenShot](../screenshots/ss1.png)
